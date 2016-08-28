@@ -1,7 +1,7 @@
 # tic_tac_toe
 Tic Tac Toe game with AI
 
-### I've created with VanillaJs
+I've created it with VanillaJs
 
 ###You can play with it online [here](http://timikurucz.github.io/TicTacToe/)
 
